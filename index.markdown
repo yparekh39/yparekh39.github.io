@@ -6,7 +6,7 @@ title: About
 # {{ site.name }}
 ## {{ site.data.about.bio }}
 
-<hr />
+<!-- <hr /> -->
 
 <!-- <div class="container-fluid things-i-like">
     <div class="row">
