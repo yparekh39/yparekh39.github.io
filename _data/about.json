@@ -1,0 +1,73 @@
+{
+    "bio": "Full-time music, movie, and board game enthusiast, rest-of-the-time Android Engineer at VSCO.",
+    "recentLikedMovies":[
+        {
+            "date": "4/9/20",
+            "movies": [
+                {
+                    "title": "Portrait of a Lady on Fire",
+                    "director": "Céline Sciamma"
+                },
+                {
+                    "title": "High and Low",
+                    "director": "Akira Kurosawa"
+                },
+                {
+                    "title": "Ratatouille",
+                    "director": "Brad Bird"
+                },
+                {
+                    "title": "Aliens",
+                    "director": "James Cameron"
+                }
+            ]
+        }
+    ],
+    "recentAlbums": [
+        {
+            "date": "4/9/20",
+            "monthlyList": {
+                "month": "April 2020",
+                "url": "https://open.spotify.com/playlist/1GRdW7tUuOxbrazNoQ0BvV?si=6KIiXRpyQ2GZPk3MsLJC9w"
+            },
+            "albums": [
+                {
+                    "title": "Hadestown",                
+                    "artist": "Anaïs Mitchell",
+                    "year": "2010",
+                    "favoriteTrack": "If It's True"
+                },
+                {
+                    "title": "Saint Cloud",                
+                    "artist": "Waxahatchee",
+                    "year": "2020",
+                    "favoriteTrack": "Oxbow"
+                },
+                {
+                    "title": "Heaven to a Tortured Mind",                
+                    "artist": "Yves Tumor",
+                    "year": "2020",
+                    "favoriteTrack": "Gospel for a New Century"
+                },
+                {
+                    "title": "Four of Arrows",                
+                    "artist": "Great Grandpa",
+                    "year": "2019",
+                    "favoriteTrack": "Dark Green Water"
+                },
+                {
+                    "title": "Magdalene",                
+                    "artist": "Fka Twigs",
+                    "year": "2019",
+                    "favoriteTrack": "cellophane"
+                }
+            ]
+        }
+    ],
+    "boardGames": [
+        { 
+            "date": "4/9/20",
+            "games":["Arkham Horror: The Card Game", "Great Western Trail", "Azul", "Race for the Galaxy"]
+        }
+    ]
+}

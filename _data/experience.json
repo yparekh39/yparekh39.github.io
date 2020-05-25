@@ -1,0 +1,25 @@
+[
+    {
+        "company": "VSCO",
+        "role": "Android Engineer",
+        "start": "9/2019"
+    },
+    {
+        "company": "Vrbo",
+        "role": "Android Engineer",
+        "start": "6/2017",
+        "end": "8/2019"
+    },
+    {
+        "company": "Microsoft",
+        "role": "Software Engineering Intern",
+        "start": "5/2016",
+        "end": "8/2016"
+    },
+    {
+        "company": "Hudl",
+        "role": "Software Engineering Intern",
+        "start": "5/2016",
+        "end": "8/2016"
+    }
+]
