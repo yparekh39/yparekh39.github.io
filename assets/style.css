@@ -62,18 +62,34 @@ img {
     width: 376px;
 }
 
-nav {
-    color: ghostwhite;
-    font-family: 'Open Sans';
-    font-weight: 400;
-    background-color: #071340
-}
-
-li {
-    list-style: none;
-    display: block;
-}
-
-ul {
+div#contact_container {
     text-align: center;
+}
+
+ul#contact {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+}
+
+ul#contact li a {
+    text-decoration: none;
+    color: white;
+}
+
+ul#contact li a:hover {
+    text-decoration: underline;
+}
+
+ul#contact li {
+    text-decoration: none;
+    display: inline;
+    font-family: soleil, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-right: 24px;
+    padding-left: 24px;
+    font-size: 20px;
+    color: white;
 }
