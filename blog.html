@@ -1,0 +1,26 @@
+---
+layout: page
+title: Blog
+---
+<h1>Latest Posts</h1>
+
+<div id="blog-posts-container">
+  {% if site.posts.size > 0  %}
+  <ul id="blog-posts">
+    {% for post in site.posts %}
+      <li>
+        <div class="post-preview">
+          <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <h4>{{ post.date | date_to_string }}</h4>
+          <p class="post-excerpt">{{ post.excerpt }}</p>
+        </div>
+        {% if forloop.last == false %}
+          <h1>·</h1>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+    <h2>No posts yet (still writing)</h2>
+  {% endif %}
+</div>

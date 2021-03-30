@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+{% include head.html %}
+<body>
+    {% include header.html %}
+    {% include sidebar.html %}
+    <h3>{{ page.title }}</h3>
+    <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+    <div id="body-container">
+        {{ content }}
+    </div>
+    {% include footer.html %}
+</body>

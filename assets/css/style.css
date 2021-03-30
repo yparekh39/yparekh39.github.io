@@ -1,0 +1,158 @@
+#body-container {
+    text-align: center;
+    margin: auto;
+}
+
+body {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+}
+
+h1 {
+    font-family: rig-solid-bold-reverse,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 10em;
+    color: white;
+    margin: 8px;
+    margin-top: 32px;
+}
+
+h2 {
+    font-family: soleil, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 2em;
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+h3 {
+    font-family: soleil, sans-serif;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    font-family: soleil, sans-serif;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+
+hr {
+    height: 2px;
+    max-width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background-color: ghostwhite;
+}
+
+p {
+    color: ghostwhite;
+    font-family: ff-tisa-web-pro, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+img {
+    height: auto;
+    width: 376px;
+}
+
+div#contact_container {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+ul#contact {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+}
+
+ul#contact li a {
+    text-decoration: none;
+    color: white;
+}
+
+ul#contact li a:hover {
+    text-decoration: none;
+}
+
+ul#contact li {
+    text-decoration: none;
+    display: inline;
+    font-family: soleil, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-right: 24px;
+    padding-left: 24px;
+    font-size: 20px;
+    color: white;
+}
+
+a#blog-link {
+    display: inline-block;
+    width: 100%; 
+    font-family: soleil, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+
+#home-container {
+    float: left;
+}
+
+#blog-container {
+    float: right;
+}
+
+a#home-link {
+    display: inline-block;
+    width: 100%; 
+    font-family: soleil, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.post-title>a {
+    color: white;
+    text-decoration: none;
+}
+
+h3.post-title {
+    font-size: 32px;
+}
+
+#blog-posts {
+    list-style-type: none;
+}
+
+.post-excerpt {
+    text-align: left;
+}
+
+.blog-post-container {
+    align-content: center;
+}

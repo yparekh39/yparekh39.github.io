@@ -22,7 +22,7 @@ title: Yash Parekh
 name: Yash Parekh
 email: yash@yashparekh.com
 description: Test # description
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: / # the subpath of your site, e.g. /blog
 url: "https://yashparekh.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rhymeswithslush
 github_username:  yparekh39

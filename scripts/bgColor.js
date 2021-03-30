@@ -1,5 +1,5 @@
 function changeBackground(color) {
-    document.body.style.backgroundColor = color;
+    document.querySelector(".random-bg-color").style.backgroundColor = color;
 }
 
 function chooseBackground() {
